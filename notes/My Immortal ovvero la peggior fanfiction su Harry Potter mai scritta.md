@@ -2,7 +2,7 @@
 
 My Immortal è una fanfiction basata sull'universo di Harry Potter che è stata pubblicata su Fanfiction.net tra il 2006 ed il 2007. Le tematiche sono più convolute di un polipo sotto cocaina e le digressioni narrative sparse peggio della merda durante una diarrea a spruzzo. Protagonista è una ragazza vampira non-can chiamata "Ebony Darkness Dementia Raven Way" e la storia è incentrata sulla sua relazione con i personaggi della serie di Harry Potter - in particolare la sua relazione con Draco Malfoy, che culmina nel suo viaggio indietro nel tempo per sconfiggere Vlodemort (oh si, e questo è solo il primo). Insieme, Ebony e Draco combattono contro i loro nemici, tra cui il Professore Snape e Harry Potter, mentre si scontrano con i loro sentimenti e i loro problemi di grammatica.
 
-Benvenuti su Nightdoomer, questa sera scopriremo la peggior fanfiction su Harry Potter mai scritta.
+Benvenuti su Perculato, questa sera scopriremo la peggior fanfiction su Harry Potter mai scritta.
 
 > Sigla
 
@@ -38,3 +38,5 @@ E ispira ancora le persone a fare un lavoro creativo. L'esempio più notevole è
 È così amato che i suoi fan hanno persino creato fanfiction e dozzine di fan art basate specificamente sulla serie. Ciò significa che ci sono persone che creano fanfiction su fanfiction ispirate da fanfiction che potrebbero essere state o meno una parodia di fanfiction. È uno strano mondo, ma bellissimo.
 
 Ad ogni modo, "My Immortal" conserva la sua magia. È per sempre sfuggente, irrimediabilmente contorto e costantemente discusso. Se mai dovessimo essere certi della paternità e dell'intento della storia, perderebbe il suo fascino. Come gli omicidi di Jack lo Squartatore o l'incidente di Roswell, "My Immortal" suscita qualcosa di primordiale per un mondo con un accesso apparentemente illimitato alle informazioni: è un segreto che, contro ogni previsione, rimane un segreto.
+
+[[Notes]]

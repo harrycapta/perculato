@@ -2,7 +2,7 @@
 
 Elliot era un incel di discendenza cinese e britannica, salito alle cronache per aver perpetrato il massacro di Isla Vista nel 2014, del quale parlerò in dettaglio più tardi. La storia di Elliot e la sua personale visione della vita sono stati citati dai media come un esempio di "eroe incel" che serviva fondamentalmente per veicolare il messaggio su cosa fosse questa oscura cultura di internet.
 
-Benvenuti su NightDoomer, stasera parliamo di Elliot Rodger, il gentleman supremo.
+Benvenuti su Perculato, stasera parliamo di Elliot Rodger, il gentleman supremo.
 
 > Sigla
 
@@ -95,6 +95,7 @@ Nei forum PuaHate dove postava occasionalmente, molte delle reazioni iniziali al
 
 Dal Giorno della Punizione, comunque, in tutta l'incelosfera, l'espressione "go ER" è un meme ancora usato ironicamente per dire "vai a commettere un'omicidio di massa e muori nel processo, come fece Rodger".
 
+[[Notes]]
 
 
 

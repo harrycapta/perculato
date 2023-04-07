@@ -2,7 +2,7 @@
 
 C'è qualcosa di sovietico nel modo in cui internet nomina le cose. Stalin utilizzava dei portmanteau come Agitprop, politburo, compromat.. e noi utilizziamo webinar, prodcast e... incel. Incel: diminutivo di involontariamente celibe. 
 
-Benvenuti su NightDoomer, questa notte tentiamo di capire chi sono gli Incel.
+Benvenuti su Perculato, questa notte tentiamo di capire chi sono gli Incel.
 
 > Sigla
 
@@ -71,5 +71,5 @@ Ma la soluzione non è l'inceldom.
 La soluzione è trovare il modo di fornire modelli positivi ai giovani uomini. Perchè se lo meritano.
 Modelli dei quali scarseggiamo particolarmente. Sopratutto oggi.
 
-
+[[Notes]]
 

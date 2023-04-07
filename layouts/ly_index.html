@@ -24,10 +24,13 @@
     </header>
     <main>   
         {{content}}
+        <div>
+            {% include 'spotify.html' %}
+        </div>
     </main>
     
     <footer class="page-footer">
-        <small>Copyright {{site.author}} | <a href="mailto:info@perculato.com">@mail</a>| 2023</small>
+        <small>Copyright Perculato | <a href="mailto:info@perculato.com">@mail</a>| 2023</small>
         {% include 'schema.html' %}
     </footer>
 </body>

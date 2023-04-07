@@ -1,26 +1,26 @@
 # Chaos Magik
 
-Chaos magic, also spelled chaos magick, is a contemporary magical practice and new age religious movement. It initially emerged in England in the 1970s as part of the wider neo-pagan and magical subculture.
+La magia del caos, anche detta chaos magick, è una pratica magica contemporanea e un movimento religioso new age. È emersa inizialmente in Inghilterra negli anni '70 come parte di una più ampia sottocultura neopagana e magica.
 
-Drawing heavily from the occult beliefs of artist Austin Osman Spare, chaos magic has been characterised as an invented religion, with some commentators drawing similarities between the movement and Discordianism.
+Attingendo a piene mani dalle credenze occulte dell'artista Austin Osman Spare, la magia del caos è stata caratterizzata come una religione inventata, con alcuni commentatori che hanno tracciato analogie tra il movimento e il Discordianesimo.
 
-The founding figures of chaos magic believed that other occult traditions had become too religious in character. They attempted to strip away the symbolic ([[sigils]]), ritualistic, theological or otherwise ornamental aspects of these occult traditions, to leave behind a set of basic techniques that they believed to be the basis of magic.
+I fondatori della magia del caos ritenevano che le altre tradizioni occulte fossero diventate troppo religiose. Hanno cercato di eliminare gli aspetti simbolici ([[sigils]]), ritualistici, teologici o comunque ornamentali di queste tradizioni occulte, per lasciare un insieme di tecniche di base che ritenevano essere la base della magia.
 
-Chaos magic teaches that the essence of magic is that perceptions are conditioned by beliefs, and that the world as we perceive it can be changed by deliberately changing those beliefs. Chaos magicians subsequently treat belief as a tool, often creating their own idiosyncratic magical systems and frequently borrowing from other magical traditions, religious movements, popular culture and various strands of philosophy.
+La magia del caos insegna che l'essenza della magia è che le percezioni sono condizionate dalle credenze e che il mondo come lo percepiamo può essere cambiato modificando deliberatamente tali credenze. I maghi del caos trattano quindi le credenze come uno strumento, spesso creando i propri sistemi magici idiosincratici e spesso prendendo in prestito da altre tradizioni magiche, movimenti religiosi, cultura popolare e vari filoni della filosofia.
 
 Hugh Urban has described chaos magic as a union of traditional occult techniques and applied postmodernism – particularly a postmodernist skepticism concerning the existence or knowability of objective truth.
 
-## Belief as a tool
-The central defining tenet of chaos magic is arguably the idea that belief is a tool for achieving effects. In chaos magic, complex symbol systems like Qabalah, the Enochian system, astrology or the I Ching are treated as maps or "symbolic and linguistic constructs" that can be manipulated to achieve certain ends but that have no absolute or objective truth value in themselves. Religious scholar Hugh Urban notes that chaos magic's "rejection of all fixed models of reality" reflects one of its central tenets: "nothing is true everything is permitted".
+## La fede come strumento
+Il principio centrale che definisce la magia del caos è probabilmente l'idea che la credenza sia uno strumento per ottenere effetti. Nella magia del caos, sistemi di simboli complessi come la Qabalah, il sistema enochiano, l'astrologia o l'I Ching sono trattati come mappe o "costrutti simbolici e linguistici" che possono essere manipolati per raggiungere determinati scopi, ma che non hanno un valore di verità assoluta o oggettiva in sé. Lo studioso di religione Hugh Urban osserva che il "rifiuto di tutti i modelli fissi di realtà" della magia del caos riflette uno dei suoi principi fondamentali: "nulla è vero tutto è permesso".
 
-Both Urban and religious scholar Bernd-Christian Otto trace this position to the influence of postmodernism on contemporary occultism. Another influence comes from the magical system of Austin Osman Spare, who believed that belief itself was a form of "psychic energy" that became locked up in rigid belief structures, and that could be released by breaking down those structures. This "free belief" could then be directed towards new aims. Otto has argued that chaos magic "filed away the whole issue of truth, thus liberating and instrumentalising individual belief as a mere tool of ritual practice."
+Sia Urban che lo studioso di religione Bernd-Christian Otto fanno risalire questa posizione all'influenza del postmodernismo sull'occultismo contemporaneo. Un'altra influenza proviene dal sistema magico di Austin Osman Spare, il quale riteneva che la credenza stessa fosse una forma di "energia psichica" che veniva bloccata in rigide strutture di credenza e che poteva essere liberata abbattendo tali strutture. Questa "credenza libera" poteva quindi essere indirizzata verso nuovi obiettivi. Otto ha sostenuto che la magia del caos "ha archiviato l'intera questione della verità, liberando e strumentalizzando così la credenza individuale come mero strumento di pratica rituale".
 
-## Magical paradigm shifting
-Peter J. Carroll suggests assigning different worldviews to the sides of a die, and then inhabiting a particular random paradigm for a set length of time (a week, a month, a year, etc.), depending on which number is rolled. For example, 1 might be paganism, 2 might be monotheism, 3 might be atheism, and so on.
+## Magico cambio di paradigma
+Peter J. Carroll suggerisce di assegnare diverse visioni del mondo alle facce di un dado e poi di abitare un particolare paradigma casuale per un determinato periodo di tempo (una settimana, un mese, un anno, ecc.), a seconda del numero tirato. Ad esempio, 1 potrebbe essere il paganesimo, 2 il monoteismo, 3 l'ateismo e così via.
 
-Phil Hine has stated that the primary task here is "to thoroughly decondition" the aspiring magician from "the mesh of beliefs, attitudes and fictions about self, society, and the world" that his or her ego associates with:
+Phil Hine ha affermato che il compito principale è quello di "decondizionare completamente" l'aspirante mago dalla "rete di credenze, atteggiamenti e finzioni su di sé, sulla società e sul mondo" a cui il suo ego si associa:
 
-Our ego is a fiction of stable self-hood which maintains itself by perpetuating the distinctions of "what I am/what I am not, what I like/what I don't like", beliefs about ones politics, religion, gender preference, degree of free will, race, subculture etc all help maintain a stable sense of self.
+Il nostro ego è una finzione di autostima stabile che si mantiene perpetuando le distinzioni di "ciò che sono/ ciò che non sono, ciò che mi piace/ ciò che non mi piace", le credenze sulla politica, la religione, la preferenza di genere, il grado di libero arbitrio, la razza, la sottocultura, ecc.
 
 [[ho visto]]
 [[cyberpunk]]

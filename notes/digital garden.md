@@ -61,3 +61,4 @@ Nel corso del 2019 e all'inizio del 2020, sempre più persone hanno iniziato a m
 
 Alla fine del 2020 l'intero concetto aveva attirato abbastanza attenzione da essere scritto dal MIT Tech Review un breve pezzo su di esso. Forse questo è il momento spartiacque in cui una parola d'ordine di Twitter ha "ce l'ha fatta".
 
+[[Notes]]

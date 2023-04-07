@@ -202,3 +202,5 @@ Abbiamo bisogno di moderati più che mai. Abbiamo bisogno di un dibattito. Abbia
 Facciamo un appello a chi non dice cosa è popolare o conveniente ma a chi è pronto a risolvere il problema.
 
 Andrew Tate non è il problema, Andrew Tate è un sintomo del problema… ma così, mi dispiace dirlo, lo è anche Katie (compra-una-vocale) Jgln.
+
+[[Notes]]

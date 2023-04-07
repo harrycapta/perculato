@@ -2,7 +2,7 @@
 
 Se credete che semplicemente diventando coscienti di qualcosa di terribile lo si possa evocare, un'introduzione al demone della tavola Ouija, Zozo, vi darà una sana dose di scaga. 
 
-Benvenuti su Nightdoomer, questa notte parleremo di quanto possa essere spiacevole tentare di parlare con vostra nonna morta.
+Benvenuti su Perculato, questa notte parleremo di quanto possa essere spiacevole tentare di parlare con vostra nonna morta.
 
 > Sigla
 
@@ -46,3 +46,5 @@ Decisamente materiale per un creepypasta, no? Beh, ci sono miliardi di ragioni p
 Perchè ha inventato tutto, vero?
 
 Vero?
+
+[[Notes]]

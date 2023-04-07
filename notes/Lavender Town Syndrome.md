@@ -34,3 +34,5 @@ Ma perchè Pokémon? Perchè una storia così dark? Molti suggeriscono che una s
 Ma io non credo: infatti, quale momento migliore di una serata in campeggio estivo, nel 1994, attorno al fuoco e circondato da coetanei, e utilizzare questa storia per far cagare addosso i tuoi amici? 
 
 Il fatto che Lavandonia avesse una musica particolarmente creepy e introducesse un argomento come la morte era abbastanza per far partire la storia.
+
+[[Notes]]

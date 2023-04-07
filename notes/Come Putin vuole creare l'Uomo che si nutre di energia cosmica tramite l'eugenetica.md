@@ -1,8 +1,8 @@
 # Come Putin vuole creare l'Uomo che si nutre di energia cosmica tramite l'eugenetica
 
-Cosa succede quando un leader mondiale si innamora di una filosofia folle ed è ammalato di cancro? Oggi su NightDoomer esamineremo un movimento noto come Cosmismo, che apparve alla fine del 19° secolo in Russia e all'inizio dell'Unione Sovietica. Il Cosmismo si prefigge il grande compito di guidare l'evoluzione per creare superuomini immortali e cosmici, ovvero un misto di Nietzsche e i Fantastici 4. Vedremo anche come questa filosofia fanatica ha influenzato Putin, e potrebbe aver contribuito a ispirare il nascente programma di eugenetica del Cremlino.
+Cosa succede quando un leader mondiale si innamora di una filosofia folle ed è ammalato di cancro? Oggi su Perculato esamineremo un movimento noto come Cosmismo, che apparve alla fine del 19° secolo in Russia e all'inizio dell'Unione Sovietica. Il Cosmismo si prefigge il grande compito di guidare l'evoluzione per creare superuomini immortali e cosmici, ovvero un misto di Nietzsche e i Fantastici 4. Vedremo anche come questa filosofia fanatica ha influenzato Putin, e potrebbe aver contribuito a ispirare il nascente programma di eugenetica del Cremlino.
 
-Benvenuti in questa puntata di NightDoomer: mi raccomando, non lasciate crescere i vostri bambini sotto i semi di girasole.
+Benvenuti in questa puntata di Perculato: mi raccomando, non lasciate crescere i vostri bambini sotto i semi di girasole.
 
 > SIGLA
 
@@ -131,3 +131,5 @@ Nel 2013, Putin ha detto che la Russia era ancora alla ricerca di una "idea nazi
 Ci si ritrova con uno stato e un esercito distrutti, guidati da uno "zar divino" gonfiato dall'ego ed impaurito dalla morte con un'idea spirituale impressa nella mente: l'unificazione, la protezione e la valorizzazione del "super-etnos" russo. 
 
 E tutto e tutti devono essere sacrificati a questo 'compito comune'.
+
+[[Notes]]

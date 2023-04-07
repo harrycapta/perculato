@@ -9,3 +9,5 @@
 5.  QAnon e la politica: esplorare il modo in cui QAnon ha influenzato la politica, come l'adozione delle teorie da parte di alcuni politici e il loro impatto sulla campagna elettorale del 2020.
     
 6.  Future di QAnon: fare una previsione su come potrebbe evolvere QAnon in futuro e sull'impatto che potrebbe avere sulla società.
+
+[[Notes]]

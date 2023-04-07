@@ -47,3 +47,5 @@ Quindi Francesca avrebbe interrotto l’uso di psicofarmaci ma nei successivi vi
 In molti nei video avrebbero notato nel riflesso delle lenti la sagoma di un uomo che la filma. Quell’uomo sarebbe -secondo l'allora balbettio dei commenti anonimi sotto i suoi video- il fidsanzato che la obbliga a tutto questo con minacce e violenza!
 
 Un'altra storia che circolava all'epoca è che Gemmadelsud non fosse una persona sola, ma due entità distinte: Francesca avrebbe incontrato la gemella (una ragazza uguale a lei fisicamente e caratterialmente) e quest’ultima avrebbe anche il suo stesso nome e cognome. Da quello sarebbe partito "l'esperimento" del canale youtube con i video caricati a volte da una a volte dall'altra. Questo dovrebbe spiegare il suo comportamento altalenante e borderline.
+
+[[Notes]]

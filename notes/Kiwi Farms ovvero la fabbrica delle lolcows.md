@@ -2,7 +2,7 @@
 
 Kiwi Farms, precedentemente conosciuto come CWCki Forums, è un forum che facilità la discussione e l'harassment di figure e comunità online. I loro obiettivi sono spesso soggetti a trolling e stalking organizzato, così come a doxxing e harassment nella vita reale. Queste azioni hanno legato Kiwi Farms al suicidio di almeno tre persone prese di mira dai membri del forum.
 
-Ciao a tutti, questa sera su Nightdoomer parliamo di Kiwi Farms, la fattoria delle lolcow.
+Ciao a tutti, questa sera su Perculato parliamo di Kiwi Farms, la fattoria delle lolcow.
 
 > Sigla
 
@@ -42,4 +42,4 @@ Nel settembre 2022, Kiwi Farms è stato bloccato da Cloudflare a causa di "una m
 Dopo una disponibilità intermittente, The Daily Dot ha confermato che VanwaTech stava fornendo servizi di rete di contenuti al sito, che lo ha riportato online, dove rimane tutt'ora. Potete visitarlo, se volete. Kiwi Farms, ancora oggi, rimane uno dei pochi residuati nel whiteweb del decennio del far west digitale.
 
 
-
+[[Notes]]

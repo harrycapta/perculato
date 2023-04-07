@@ -85,3 +85,4 @@ Ci sono molte ragioni diverse per cui le persone possono scegliere di impegnarsi
 
 Le motivazioni specifiche che spingono a praticare la magia variano a seconda del singolo praticante e non esiste una ragione "corretta" per impegnarsi nelle pratiche magiche. In definitiva, la decisione di praticare la magia dovrebbe basarsi sugli **interessi**, i **valori** e gli **obiettivi personali** dell'individuo.
 
+[[Notes]]

@@ -1,40 +1,40 @@
 # Sigils
 
-The use of symbols for magical or cultic purposes has been widespread since at least the Neolithic era. The term sigil derives from the Latin sigillum (pl. sigilla or sigils), meaning "seal."
+L'uso di simboli per scopi magici o cultuali è diffuso almeno dal Neolitico. Il termine sigillo deriva dal latino sigillum (pl. sigilla o sigils), che significa "sigillo".
 
-In medieval magic, the term sigil was commonly used to refer to occult signs which represented various angels and demons which the practitioner might summon. The magical training books called grimoires often listed pages of such sigils. A particularly well-known list is in The Lesser Key of Solomon, in which the sigils of the 72 princes of the hierarchy of hell are given for the magician's use. Such sigils are considered to be the equivalent of the true name of the spirit and thus granted the magician a measure of control over the beings.
+Nella magia medievale, il termine sigillo era comunemente usato per riferirsi a segni occulti che rappresentavano vari angeli e demoni che il praticante poteva evocare. I libri di formazione magica chiamati grimori elencavano spesso pagine di tali sigilli. Un elenco particolarmente noto è quello contenuto ne La chiave minore di Salomone, in cui sono riportati i sigilli dei 72 principi della gerarchia infernale ad uso del mago. Tali sigilli sono considerati l'equivalente del vero nome dello spirito e garantiscono al mago un certo controllo sugli esseri.
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/2/2d/Sefer_raziel_segulot.png)
 
-An excerpt from Sefer Raziel HaMalakh featuring various magical sigils (or סגולות, segulot, in Hebrew). [[Number seven]]
+Un estratto da Sefer Raziel HaMalakh che presenta vari sigilli magici (o סגולות, segulot, in ebraico). [[Number seven]]
 
-A common method of creating the sigils of certain spirits was to use kameas, a special use case of magic squares — the names of the spirits were converted to numbers, which were then located on the magic square. The locations were then connected by lines, forming an abstract figure.
+Un metodo comune per creare i sigilli di alcuni spiriti era quello di utilizzare i kamea, un caso particolare di quadrato magico: i nomi degli spiriti venivano convertiti in numeri, che venivano poi posizionati sul quadrato magico. Le posizioni venivano poi collegate da linee, formando una figura astratta.
 
-The word sigil has a long history in Western magic. The members of the Golden Dawn were perfectly familiar with it ("combining the letters, the colours, the attributions and their Synthesis, thou mayest build up a telesmatic Image of a Force. The Sigil shall then serve thee for the tracing of a Current which shall call into action a certain Elemental Force") and it was used in the making of talismans. The sigil was like a signature or sign of an occult entity.
+La parola sigillo ha una lunga storia nella magia occidentale. I membri della Golden Dawn lo conoscevano perfettamente ("combinando le lettere, i colori, le attribuzioni e la loro sintesi, puoi costruire l'immagine telematica di una forza. Il Sigillo ti servirà allora per tracciare una Corrente che chiamerà in azione una certa Forza Elementale") e veniva utilizzato nella creazione di talismani. Il sigillo era come una firma o un segno di un'entità occulta.
 
 ## Austin Osman Spare
 
-The artist and occultist Austin Osman Spare (1886–1956) developed his own unique method of creating and using sigils, which has had a huge effect on modern occultism. Essentially, Spare turned the Medieval practice of using sigils to evoke entities on its head, arguing that such supernatural beings were simply complexes in the unconscious, and could be actively created through the process of sigilization.
+L'artista e occultista Austin Osman Spare (1886-1956) ha sviluppato un metodo unico di creazione e utilizzo dei sigilli, che ha avuto un enorme effetto sull'occultismo moderno. In sostanza, Spare stravolse la pratica medievale di usare i sigilli per evocare entità, sostenendo che tali esseri soprannaturali erano semplicemente complessi nell'inconscio e potevano essere creati attivamente attraverso il processo di siglatura.
 
-Spare's technique became a cornerstone of chaos magic (see next section). It also influenced the artist Brion Gysin, who experimented with combining Spare's sigil method with the traditional form of magic squares:
+La tecnica di Spare divenne una pietra miliare della magia del caos (vedi sezione successiva). Essa influenzò anche l'artista Brion Gysin, che sperimentò la combinazione del metodo dei sigilli di Spare con la forma tradizionale dei quadrati magici:
 
-Calligraphic magick squares were one of the techniques most commonly applied by Gysin. He would reduce a name or an idea to a "glyph" and then write across the paper from right to left, turn the paper and do the same again, and so on, turning the paper around and around to create a multi-dimensional grid... The same techniques and consciously driven functional intention also permeated his paintings. In a very real sense, everything he created was an act of sorcery.
+I quadrati magici calligrafici erano una delle tecniche più comunemente applicate da Gysin. Riduceva un nome o un'idea a un "glifo" e poi scriveva sulla carta da destra a sinistra, girava il foglio e rifaceva la stessa cosa, e così via, girando e rigirando la carta per creare una griglia multidimensionale... Le stesse tecniche e la stessa intenzione funzionale consapevolmente guidata permeavano anche i suoi dipinti. In un senso molto reale, tutto ciò che creava era un atto di stregoneria.
 
 ## [[Chaos magik]]
 
-### A modern personal sigil.
-In chaos magic, following Spare, sigils are commonly created by writing an intention, then condensing the letters of the statement down to form a sort of monogram. The chaos magician then uses the gnostic state to "launch" or "charge" the sigil – essentially bypassing the conscious mind to implant the desire in the unconscious. To quote Ray Sherwin:
+### Un moderno sigillo
+Nella magia del caos, seguendo Spare, i sigilli sono comunemente creati scrivendo un'intenzione, poi condensando le lettere dell'affermazione fino a formare una sorta di monogramma. Il mago del caos usa poi lo stato gnostico per "lanciare" o "caricare" il sigillo - essenzialmente bypassando la mente cosciente per impiantare il desiderio nell'inconscio. Per citare Ray Sherwin:
 
-> The magician acknowledges a desire, he lists the appropriate symbols and arranges them into an easily visualised glyph. Using any of the gnostic techniques he reifies the sigil and then, by force of will, hurls it into his subconscious from where the sigil can begin to work unencumbered by desire.
+> Il mago riconosce un desiderio, elenca i simboli appropriati e li dispone in un glifo facilmente visualizzabile. Utilizzando una qualsiasi delle tecniche gnostiche, reifica il sigillo e poi, con la forza della volontà, lo scaglia nel suo subconscio, da dove il sigillo può iniziare a lavorare libero dal desiderio.
 
-After charging the sigil, it is considered necessary to repress all memory of it. In the words of Spare, there should be "a deliberate striving to forget it".
+Dopo aver caricato il sigillo, si ritiene necessario reprimerne ogni ricordo. Nelle parole di Spare, dovrebbe esserci "uno sforzo deliberato per dimenticarlo".
 
-In modern chaos magic, when a complex of thoughts, desires, and intentions gains such a level of sophistication that it appears to operate autonomously from the magician's consciousness, as if it were an independent being, then such a complex is referred to as a servitor. When such a being becomes large enough that it exists independently of any one individual, as a form of "group mind", then it is referred to as an egregore.
+Nella moderna magia del caos, quando un complesso di pensieri, desideri e intenzioni raggiunge un livello di sofisticazione tale da sembrare operare autonomamente dalla coscienza del mago, come se fosse un essere indipendente, allora tale complesso viene definito servitore. Quando un tale essere diventa abbastanza grande da esistere indipendentemente da ogni singolo individuo, come una forma di "mente di gruppo", allora si parla di egregore.
 
-Later chaos magicians have expanded on the basic sigilization technique. Grant Morrison coined the term hypersigil to refer to an extended work of art with magical meaning and willpower, created using adapted processes of sigilization. Their comic book series The Invisibles was intended as such a hypersigil. 
-Morrison has also argued that modern corporate logos like "the McDonald's Golden Arches, the Nike swoosh and the Virgin autograph" are a form of viral sigil:
+In seguito, i maghi del caos hanno ampliato la tecnica di base della sigilizzazione. Grant Morrison ha coniato il termine ipersigillo per riferirsi a un'opera d'arte estesa con significato magico e forza di volontà, creata utilizzando processi adattati di sigilizzazione. La serie a fumetti The Invisibles è stata concepita come un ipersigillo di questo tipo. 
+Morrison ha anche sostenuto che i moderni loghi aziendali, come "gli archi d'oro di McDonald's, lo swoosh della Nike e l'autografo della Virgin", sono una forma di sigillo virale:
 
-> Corporate sigils are super-breeders. They attack unbranded imaginative space. They invade Red Square, they infest the cranky streets of Tibet, they etch themselves into hairstyles. They breed across clothing, turning people into advertising hoardings... The logo or brand, like any sigil, is a condensation, a compressed, symbolic summoning up of the world of desire which the corporation intends to represent... Walt Disney died long ago but his sigil, that familiar, cartoonish signature, persists, carrying its own vast weight of meanings, associations, nostalgia and significance.
+> I sigilli aziendali sono super-allevatori. Attaccano lo spazio immaginativo senza marchio. Invadono la Piazza Rossa, infestano le strade irascibili del Tibet, si incidono nelle acconciature. Si riproducono sui vestiti, trasformando le persone in cartelloni pubblicitari... Il logo o il marchio, come ogni sigillo, è una condensazione, un'evocazione compressa e simbolica del mondo del desiderio che la società intende rappresentare... Walt Disney è morto molto tempo fa, ma il suo sigillo, quella firma familiare e cartoonesca, persiste, portando con sé il suo vasto peso di significati, associazioni, nostalgia e significato.
 
 [[Generative AI]]
 
@@ -43,3 +43,4 @@ Morrison has also argued that modern corporate logos like "the McDonald's Golden
 [[cyberpunk]]
 [[newsclips]]
 [[quotes]]
+[[Notes]]

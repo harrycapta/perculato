@@ -15,3 +15,5 @@ Christian Weston Chandler, noto anche come Chris-Chan, è una figura controversa
 6.  Problemi di salute mentale: Chris-Chan ha parlato apertamente dei suoi problemi di salute mentale e ha ricevuto trattamenti per le sue condizioni.
     
 7.  Stato attuale: Chris-Chan continua a essere una figura controversa e è attivo sui social media.
+
+[[Notes]]

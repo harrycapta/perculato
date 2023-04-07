@@ -141,3 +141,5 @@ Se il concetto di eterno ritorno fosse vero, che fate?
 Maledite il destino? 
 Abbracciate il destino? 
 O cercate il libero arbitrio? 
+
+[[Notes]]

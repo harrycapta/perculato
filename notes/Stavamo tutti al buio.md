@@ -62,5 +62,4 @@ Co st’editto annò er boja pe ccuriero,
 interroganno tutti in zur tenore;
 e arisposeno tutti: “E’ vvero, è vvero”.
 
-
-
+[[Notes]]

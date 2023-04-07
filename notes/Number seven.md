@@ -26,3 +26,5 @@ December 10 is the **7**5* anniversary of the UN General Assembly’s adoption o
 May 14 is the 25* anniversary of the airing of the final episode of Seinfeld
 August 25 is the 25* anniversary of the release of Lauryn Hill’s debut album, ["The Miseducation of Lauryn Hill"](https://www.rollingstone.com/music/music-news/inside-the-miseducation-of-lauryn-hill-252219/) , which sold more than eight million copies and was named Album of the Year.
 October 11 is the **7**5* anniversary of the last time the baseball team now known as the Cleveland Guardians won the World Series.
+
+[[Notes]]
