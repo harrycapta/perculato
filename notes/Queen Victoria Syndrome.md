@@ -1,0 +1,13 @@
+# Queen Victoria Syndrome
+
+In the first episode of The Crown's fifth season, Queen Elizabeth II, played now by Imelda Staunton, finds herself in an unconventional dilemma. Aside from her son and heir's unraveling marriage, her beloved so-called second home, the royal yacht Britannia, is falling apart. And it will cost millions to repair. “She's a creature of another age,” her husband Prince Philip says of the vessel over dinner. “... In many ways, she's obsolete.”
+
+As the episode, and season, progresses, it becomes clear they're not only talking about the boat.
+
+Scenes later, an August 1991 edition of The Sunday Times publishes the results from a national poll that found half of the British public wants Elizabeth to abdicate the throne in favor of her son, Prince Charles. Snippets of the article appear onscreen, calling the sovereign “‘out of touch,’ ‘irrelevant’ and, more bluntly, ‘old.’” The criticisms sum up what the newspaper calls “Queen Victoria Syndrome.”
+
+The diagnosis is a reference to Elizabeth's great-great grandmother, Queen Victoria, whose lengthy 63-years rule lasted from 1837 to 1901. By the time of her death, she was called “the Grandmother of Europe.” She was the longest-reigning sovereign of Great Britain, only surpassed by Queen Elizabeth II herself, who ruled for 70 years until her passing this September. It is true that in the ’80s and ’90s, criticisms of Queen Elizabeth being out of touch circulated. Sarah Gristwood wrote for Huff Post in 2015, per History Extra, that “by the end of the decade [the 1980s] courtiers had begun to talk about QVS or the Queen Victoria Syndrome, whereby a nation could become tired of an ageing monarch and a parasitic royal family.”
+
+Such criticism hurts Elizabeth in The Crown, but as an admirer of her great-great grandmother, she takes any comparison with Queen Victoria as a compliment. She considers concepts like calm, constancy, and stability—frequent descriptors of Victoria—as badges of honor. The newspaper's, and therefor the public's, diagnosis does not shift her ideas of what the crown should stand for. While Charles (Dominic West) spends the season advocating for a modernized monarchy, Elizabeth remains staunchly loyal to tradition, to keeping things as they are. This also explains why she insists on repairing the royal yacht, even asking the government to cover its 14 million-pound renovation. In her plea to the prime minister, the queen calls the Britannia “a floating, seagoing expression of me.” She acknowledges that it has aged, yes, but does not believe it's time to let her go.
+
+[[Putin]]

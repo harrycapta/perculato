@@ -4,23 +4,31 @@
     {% include 'head.html' %}
 </head>
 <body>
+    <div class="progress-wrapper">
+        <div class="progress-label"></div>
+        <progress></progress>
+</div>
     <header class="page-header">
         <a href="/" class="page-header__logo" title="Go home">
-            <img src="/assets/avatar.png" alt="" width="48">
+            <img src="/assets/avatar.jpeg" alt="Nightdoomer Logo" width="80">
         </a>
 
         <nav>
             <a href="/">Home</a>
-            <a href="/about">About Me</a>
-            <a href="/notes">Notes</a>
+            <a href="/notes">Podcast</a>
+            <a href="/notes"><img class="page-header__logo" src="/assets/tk_logo.gif" width="50px" height="50px"></a>
+            <!--<a href="/notes">Spotify</a>-->
+            <!--<a href="/notes">Google Podcast</a>-->
+            <!--<a href="/notes">Apple Podcast</a>-->
         </nav>
     </header>
-    <main>
+    <main>   
         {{content}}
     </main>
     
     <footer class="page-footer">
-        <small>Copyright {{site.author}}</small>
+        <small>Copyright {{site.author}} | <a href="mailto:info@nightdoomer.com">@mail</a>| 2022</small>
+        {% include 'schema.html' %}
     </footer>
 </body>
 </html>

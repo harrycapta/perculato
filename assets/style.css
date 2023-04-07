@@ -1,15 +1,42 @@
-:root {
-    --accent: #2D9CDB;
-    --grey: #444;
+@font-face {
+    font-family: "VT";
+    src: url(/assets/VT323.ttf);
 }
+
+@font-face {
+    font-family: "Newer";
+    src: url(/assets/Found.ttf);
+}
+
+
+:root {
+    --accent: rgb(0, 132, 255);
+    --grey: #444;
+    --black: #000;
+    --white: rgb(240, 235, 235);
+    --progress-bar-height: 3px;
+    --progress-bar-color: rgb(10, 10, 10);
+    --progress-bar-value-color: rgb(0, 220, 191);
+    --progress-bar-value: 20%;  
+}
+
+::selection {
+    background:  rgb(0, 15, 220);
+    color:white;
+  }
+  
 
 html {
     font-size:  100%;
     scroll-behavior: smooth;
+    background-color:var(--black);
+    color: var(--white);
 }
 
+strong {color:var(--accent)}
+
 body {
-    font-family: Inter, sans-serif;
+    font-family: 'Newer', sans-serif;
     line-height: 1.65;
     
     display: flex;
@@ -19,11 +46,17 @@ body {
     margin: 0 24px;
 }
 
+img {
+    border-style: none;
+    width: 100%;
+}
+
 @media only screen and (max-width: 468px) {
     .page-header {
         flex-direction: column;
-    }
-}
+    }    
+    
+} 
 
 .page-header {
     display: flex;
@@ -33,6 +66,7 @@ body {
     margin-top: 8px;
 }
 
+
 .page-header nav a:not(:hover):not(:focus) {
     color: currentColor;
     text-decoration: none;
@@ -41,6 +75,9 @@ body {
 nav a {
     margin: 0 12px;
     font-size: 1.25em;
+    font-family: "VT", sans-serif;
+    font-size: 14px;
+    color: var(--accent)!important;
 }
 
 main {
@@ -50,17 +87,33 @@ main {
     margin: 0 auto;
 }
 
+.page-header__logo {
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top: 10px;
+}
+
 .page-footer {
     text-align: center;
     margin-bottom: 8px;
 }
 
 a[href] {
-    color: var(--accent);
+    text-decoration:none;
+    color:white;
 }
 
+p a[href]::after {
+    content: "»";
+    color: var(--accent);
+    margin: 0 4px;
+}
+
+
 a[href]:hover {
-    text-decoration: none;
+    text-decoration: underline;
+    color: var(--accent);
 }
 
 a[href]:focus {
@@ -79,17 +132,45 @@ h1, h2, h3, h4, h5 {
   margin: 2.75rem 0 1.05rem;
   font-weight: 400;
   line-height: 1.15;
+  font-family:"VT", sans-serif;
 }
 
-h1 {font-size: 3.052em;}
+.title {
+    transform: translateX(-50%) rotate(-10deg);
+    display: block;
+    float: left;
+    left: 50%;
+    position: relative;
+  }
+  .title span {
+    transform: skew(-10deg);
+    display: block;
+    float: left;
+    text-shadow: #533d4a 1px 1px, #533d4a 2px 2px, #533d4a 3px 3px, #533d4a 4px 4px, #533d4a 5px 5px, #533d4a 6px 6px;
+    min-width: 10px;
+    min-height: 10px;
+    position: relative;
+  }
+  
+  .title:nth-child(1) {
+    color: #e55643;
+  }
+  .title:nth-child(2) {
+    color: #2b9f5e;
+  }
+  .title:nth-child(3) {
+    color: #f1c83c;
+  }
 
-h2 {font-size: 2.441em;}
+h1 {font-size: 2.052em;  text-shadow: 1px 0.5px rgb(30, 1, 97);}
 
-h3 {font-size: 1.953em;}
+h2 {font-size: 1.441em; text-shadow: 1px 0.5px rgb(30, 1, 97);}
 
-h4 {font-size: 1.563em;}
+h3 {font-size: 0.953em;color:rgb(11, 86, 250); text-shadow: 1px 0.5px rgb(30, 1, 97);}
 
-h5, .larger {font-size: 1.25em;}
+h4 {font-size: 0.563em;text-shadow: 1px 0.5px rgb(30, 1, 97);}
+
+h5, .larger {font-size: 0.25em;}
 
 small {font-size: 0.8em;}
 
@@ -114,7 +195,7 @@ small {font-size: 0.8em;}
     position: absolute;
     bottom: 8px;
     left: 100%;
-    background-color: #fff;
+    background-color: #000;
     border-radius: 4px;
     padding: 4px;
     box-shadow: 0 0 4px 2px rgba(0, 0, 0, 0.25);
@@ -126,7 +207,7 @@ small {font-size: 0.8em;}
     content: "";
     position: absolute;
     bottom: 0;
-    background: linear-gradient(transparent, white);
+    background: linear-gradient(transparent, #000);
     width: 100%;
     height: 24px;
 }
@@ -148,4 +229,24 @@ small {font-size: 0.8em;}
 
 .backlink:hover .backlink__preview {
     display: block;
+}
+
+/* PROGRESS BAR */
+
+.progress-wrapper {
+    position: fixed;
+    left:0;
+    top:0;
+    opacity:0.4;
+}
+
+.progress-label {
+    DISPLAY: none;
+}
+
+progress {
+    width: 100vw;
+    border-radius: 0 0 2px 2px;
+    height: 3px;
+    position: absolute;
 }
