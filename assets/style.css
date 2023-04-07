@@ -46,6 +46,13 @@ body {
     margin: 0 24px;
 }
 
+.body-index {
+    background-image:url("https://media.tenor.com/975jc5FuENUAAAAC/glitch-grainy.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
 img {
     border-style: none;
     width: 100%;
